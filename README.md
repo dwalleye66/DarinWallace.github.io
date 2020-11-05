@@ -1,4 +1,4 @@
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio (change)
 
 Note from Student: This homework was a greater challenge due to unexpected distractions, additional work will be completed in the future.
 
